@@ -1,0 +1,6 @@
+owner=464310531621388308
+prefix=%
+game=sniper bot | %play faded
+stayinchannel=true
+songinstatus=true
+token=NTczNTU4MjIyMTc1MDc2MzUy.XMsl3Q.kHeLyR05kmLLkdPC7-6n7quD7cY
