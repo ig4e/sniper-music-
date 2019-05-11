@@ -1,6 +1,6 @@
 owner=464310531621388308
-prefix=^
-game=sniper bot | ^play faded
+prefix=*
+game=sniper bot | *play faded
 stayinchannel=true
 songinstatus=true
-token=NTc2Nzc4MDk4MjU1ODU1NjQ2.XNbdLA.vX8YBiorkTr28dm6UIWYJY91ArM
+token=NTc2Nzc4MDk4MjU1ODU1NjQ2.XNbkyA.bUyjY5Jg14C2uyH5Q0cgwKQuUoE
