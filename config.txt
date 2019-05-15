@@ -3,4 +3,5 @@ prefix=&
 game=sniper bot | &play faded
 stayinchannel=true
 songinstatus=true
-token=NTc2Njc3NjU3MTA2ODQxNjIx.XNborA.YSBYj-0es4EC0Pru-7SxS6uRwyw
+token=NTczNTU4MjIyMTc1MDc2MzUy.XNu-LQ.Mmk5s8FB5art4abaTGJUeKfBCVE
+
