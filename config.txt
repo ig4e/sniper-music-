@@ -1,6 +1,6 @@
 owner=464310531621388308
-prefix=#
-game=sniper bot | #play faded
+prefix=3
+game=sniper bot | 3play faded
 stayinchannel=true
 songinstatus=true
 token=NTczNjYyODk1NDQ0MDY2Mzcz.XNvOUw.Z5qQA9cCzW_SQc0mrCo-j8w80sA
