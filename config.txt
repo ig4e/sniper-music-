@@ -1,8 +1,8 @@
 owner=464310531621388308
 prefix=1
-game=sniper bot | 1play faded
+stream= by sniper
 stayinchannel=true
 songinstatus=true
-token=NTczNTU4MjIyMTc1MDc2MzUy.XNyZaQ.VAIoL4usgYHTGNSHUxIu3gS8AqE
+token=NTc5Nzk0Mjc4OTUyMzM3NDQ4.XOHVqw.2YkBbUtsnyKFvOl5gVnLAxHEw5A
 
 
