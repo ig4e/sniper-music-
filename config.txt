@@ -3,6 +3,6 @@ prefix=4
 game= sniper bot v1.7 | 4play faded
 stayinchannel=true
 songinstatus=true
-token=NDY0MzEwNTMxNjIxMzg4MzA4.XOjRIg.T_9apiLBq3o5zMj3byldxHm9asA
+token=NTc3MjA0NzQ3NjY5MzQwMTcw.XOlEeQ.A3BKNRbw9WoByirTT_4DEHPBV5w
 
 
