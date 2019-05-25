@@ -3,6 +3,6 @@ prefix=1
 stream= by sniper
 stayinchannel=true
 songinstatus=true
-token=NTc5Nzk0Mjc4OTUyMzM3NDQ4.XOHVqw.2YkBbUtsnyKFvOl5gVnLAxHEw5A
+token=NDY0MzEwNTMxNjIxMzg4MzA4.XOjRIg.T_9apiLBq3o5zMj3byldxHm9asA
 
 
