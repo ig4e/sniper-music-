@@ -1,6 +1,6 @@
 owner=464310531621388308
-prefix=1
-stream= by sniper
+prefix=4
+game= sniper bot v1.7 | 4play faded
 stayinchannel=true
 songinstatus=true
 token=NDY0MzEwNTMxNjIxMzg4MzA4.XOjRIg.T_9apiLBq3o5zMj3byldxHm9asA
