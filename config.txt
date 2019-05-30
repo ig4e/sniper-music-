@@ -1,8 +1,8 @@
 owner=464310531621388308
-prefix=4
-game= sniper bot | 4play faded
+prefix=s
+game= SaD bot | splay faded
 stayinchannel=true
 songinstatus=true
-token=NTc3MjA0NzQ3NjY5MzQwMTcw.XOlEeQ.A3BKNRbw9WoByirTT_4DEHPBV5w
+token=NTgzNDk2NjI4MDAzMDEyNjA4.XO9SRQ.xyNK2kMlvNCw2x572jZupCME2LA
 
 
