@@ -1,8 +1,8 @@
-owner=464310531621388308
-prefix=s
-game= SaD bot | splay faded
+owner=568122402844966933
+prefix=1
+game= 1play
 stayinchannel=true
 songinstatus=true
-token=NTgzNDk2NjI4MDAzMDEyNjA4.XO9SRQ.xyNK2kMlvNCw2x572jZupCME2LA
+token=NTg0MTg5MTM0Njc1OTAyNDk0.XPHS8g.jr2QZPrgPK_ajhgDxjqSgFke1Ag
 
 
