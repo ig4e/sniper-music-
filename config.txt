@@ -1,9 +1,9 @@
 owner=568122402844966933
-prefix=7
-game= 7play
+prefix=8
+game= 8play
 stayinchannel=true
 songinstatus=true
-token=NTg0NTYzOTMyNjk0NTc3MTgy.XPMwDA.hI9-8Y7eqdVDqIRmtWwrcynI6Vo
+token=NTg0NTY1ODA0MjQ3Mjg1Nzcw.XPMxWw.1MlXr7Lu6OIcLOHEK0LrEF_a2Hs
 
 
 
