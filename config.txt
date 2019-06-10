@@ -1,9 +1,9 @@
 owner=464310531621388308
-prefix=2
-game= 2play
+prefix=30s
+game= 30splay
 stayinchannel=true
 songinstatus=true
-token=NTczNjYyODk1NDQ0MDY2Mzcz.XP2wQw.h_5GpSMdxj_fZRO3Nm46HI0Bj10
+token=NTczOTIxMzcyOTYzNjAyNDQy.XP2x3g.C_JnJzkFNy4WMouaIYPiJ7rB-UM
 
 
 
