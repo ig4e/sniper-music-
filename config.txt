@@ -1,9 +1,9 @@
-owner=538346873510166528
-prefix=4
-game= 4play
+owner=464310531621388308
+prefix=1
+game= 1play
 stayinchannel=true
 songinstatus=true
-token=NTg0NzAzMjI0NDYwNjA3NDg5.XPOxkw.7HnS9YEO0qDBYN6VQ7RBSAEk65o
+token=NTczNTU4MjIyMTc1MDc2MzUy.XP2u8g.3P-N_BMWJgeVBP9JpOJyHzwAYXk
 
 
 
